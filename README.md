@@ -18,8 +18,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Siga os passos a baixo para executar o projeto!
 
-Ter instalado NodeJs 
-
 Clone o repositório
 ```
 $ git clone https://github.com/fabrinanunes/nlw6-react.git
@@ -40,14 +38,17 @@ Complete as variáveis contidas no `.env.exemplo` (O projeto foi realizado atrav
 
 Em seguida acesse http://localhost:3000 no seu navegador.
 
-## ➕ Extras
+É necessário ter instalado o NodeJs na máquina.
 
+## ➕ Extras
+```
 [ ] Modal - Excluir sala (ver Discover Rocketseat)
 [ ] Modal - Excluir pergunta
 [ ] Dark Theme (ver youtube Rocketseat)
 [ ] Responsividade (ver youtube Rocketseat)
 [ ] Styles Componets (biblioteca css)
 [ ] ESLint e Prettier (ver youtube Rocketseat - estrutura react)
+```
 
 ## 🔖 Layout
 
