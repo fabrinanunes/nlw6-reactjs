@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Letmeask" title="Letmeask" src=".github/cover.svg" width="600px"/>
+    <img alt="Letmeask" title="Letmeask" src="https://github.com/eduardorerick/letmeask/raw/master/.github/letmeaskhome.png" width="600px"/>
 </p>
 
 ## 💻 Projeto
